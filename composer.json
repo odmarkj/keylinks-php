@@ -1,0 +1,24 @@
+{
+    "name": "Keylinks/Keylinks",
+    "description": "An API for Keylinks",
+    "keywords": ["keylinks"],
+    "homepage": "http://github.com/odmarkj/keylinks-api",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Joshua Odmark",
+            "email": "support@keylinks.co",
+            "homepage": "http://www.keylinks.co",
+            "role": "Developer"
+        }
+    ],
+    "license": "MIT",
+    "autoload": {
+        "psr-0": {"Keylinks": "src/"}
+    },
+    "support": {
+        "email": "support@keylinks.co",
+        "issues": "https://github.com/odmarkj/keylinks-api/issues",
+        "source": "https://github.com/odmarkj/keylinks-api"
+    }
+}
