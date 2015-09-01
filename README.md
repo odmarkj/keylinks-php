@@ -19,4 +19,4 @@ The library uses PHPFastCache. The cache is used to store the Keylinks generated
 
 ## How To Use Keylinks ##
 
-Wrap any piece of text that you would like to create a link for in the <keylinks> tag and Keylinks will do the rest. You can even replace existing <a> links with a <keylinks> tag, and if Keylinks can improve upon it, it will, but if it can't, it will turn it back into a regular link with an <a> tag.
+Wrap any piece of text that you would like to create a link for in the ```<keylinks>``` tag and Keylinks will do the rest. You can even replace existing ```<a>``` links with a ```<keylinks>``` tag, and if Keylinks can improve upon it, it will, but if it can't, it will turn it back into a regular link with an ```<a>``` tag.
